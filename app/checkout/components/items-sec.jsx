@@ -1,5 +1,5 @@
-import Items from "@/app/carttotal/components/utils/items.jsx"
-import Total from "@/app/carttotal/components/utils/total"
+import Items from "@/app/checkout/components/utils/items.jsx"
+import Total from "@/app/checkout/components/utils/total"
 
 export default function ItemsSec() {
   return (

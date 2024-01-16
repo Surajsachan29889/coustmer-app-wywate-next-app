@@ -1,4 +1,4 @@
-import items from "@/app/carttotal/components/lib/data";
+import items from "@/app/checkout/components/lib/data";
 import vegicon from "@/public/veg-icon.svg"
 import nonvegicon from "@/public/non-veg-icon.svg";
 import Image from "next/image";

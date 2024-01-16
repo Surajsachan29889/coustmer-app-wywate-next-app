@@ -1,4 +1,4 @@
-import items from "@/app/carttotal/components/lib/data";
+import items from "@/app/checkout/components/lib/data";
 export default function Total() {
   let total = 0;
   let coupon = 20;

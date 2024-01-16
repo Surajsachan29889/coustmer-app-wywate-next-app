@@ -1,5 +1,5 @@
 import companyimg from "@/public/company-logo.png";
-import items from "@/app/carttotal/components/lib/data";
+import items from "@/app/checkout/components/lib/data";
 import Image from "next/image";
 export default function CompanyBox() {
     const font = {
