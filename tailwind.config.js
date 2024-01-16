@@ -11,6 +11,7 @@ module.exports = {
         pri: '#26D084',
         sec: "#C3C3C3",
         tri:"#3C3C3C",
+        quad:"#C6C6C6",
   
       },
       fontFamily:{
