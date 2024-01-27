@@ -14,10 +14,7 @@ module.exports = {
         quad:"#C6C6C6",
   
       },
-      fontFamily:{
-        custom:["keepCalm", "keepcalm"]
-
-      }
+     
     },
   },
   plugins: [],

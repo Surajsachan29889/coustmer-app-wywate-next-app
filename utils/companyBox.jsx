@@ -12,7 +12,7 @@ export default function CompanyBox() {
             <div>
                     <Image src={companyimg} alt=".." className="rounded-xl border-[2px] border-[#E2E2E2] bg-white w-[3.4rem] h-[2.688rem] " />
             </div>
-            <div className="ml-[.7rem]">
+            <div className="ml-[.7rem] flex flex-col items-start justify-center">
                 <h2 className="font-extrabold text-[0.9rem] " style={font}  >Moti Mahal Delux</h2>
                 <p className=" text-[.7rem] text-[#5D5D5D]  " style={font}>ITI Park, Bengaluru</p>
             </div>

@@ -4,11 +4,14 @@
 
 @font-face {
   font-family: 'keep calm';
-  src: url('../font/KeepCalm-Medium.ttf') format('ttf');
+  src: url('../font/KeepCalm-Medium.ttf') format('truetype');
 }
 
 ::-webkit-scrollbar {
   display: none;
+}
+body{
+  font-family: 'keepcalm';
 }
 .item-container{
   overflow-y: scroll;
