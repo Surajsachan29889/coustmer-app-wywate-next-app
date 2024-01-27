@@ -1,6 +1,6 @@
 import React from 'react'
 import Header from './header'
-import CompanyBox from '@/app/utils/companyBox'
+import CompanyBox from '@/utils/companyBox'
 import Navbar from '@/utils/navbar'
 
 export default function Main() {
