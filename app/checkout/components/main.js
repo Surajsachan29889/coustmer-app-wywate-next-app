@@ -1,5 +1,5 @@
 import React from "react";
-import CompanyBox from "@/utils/companyBox";
+import CompanyBox from "@/app/globalUtils/companyBox";
 import ItemsSec from "@/app/checkout/components/items-sec";
 import ButtonGrp from "@/app/checkout/components/utils/button-grp";
 
