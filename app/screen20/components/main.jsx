@@ -1,7 +1,7 @@
 import React from 'react'
 import Header from './header'
 import CompanyBox from '@/app/utils/companyBox'
-import Navbar from '@/app/utils/navbar'
+import Navbar from '@/utils/navbar'
 
 export default function Main() {
   return (

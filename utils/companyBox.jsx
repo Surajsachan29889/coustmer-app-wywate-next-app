@@ -23,7 +23,7 @@ export default function CompanyBox() {
             </div>
 
         </div>
-        <div className="flex p-[0.7rem] relative "> 
+        <div className="flex p-[0.7rem] justify-start items-center relative "> 
             <h4 className="text-[.8rem] text-[grey] font-semibold ">Schedule</h4>
             <p className="ml-[5%] text-[.75rem] font-bold ">23/11/22 at 6:00 PM</p>
             <h3 className="text-[0.9rem] font-bold absolute right-[15%] ">{itemnumber} Items <span className="text-[grey]">| </span></h3>

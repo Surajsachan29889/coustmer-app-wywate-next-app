@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: 'keep calm';
-  src: url('font/KeepCalm-Medium.ttf') format('ttf');
+  src: url('../font/KeepCalm-Medium.ttf') format('ttf');
 }
 
 ::-webkit-scrollbar {
