@@ -4,6 +4,9 @@ import logo from '@/public/whitelogo.svg'
 import home from '@/public/Home.svg'
 import explore from '@/public/Search.svg'
 import account from '@/public/User.svg'
+import cart from '@/public/cart.svg'
+
+
 export default function Navbar() {
   return (
     <div className=' relative w-full h-[14vh] rounded-t-3xl bg-[white] flex gap-[30%] justify-center items-center '>
@@ -22,7 +25,7 @@ export default function Navbar() {
         </div>
         <div className='flex gap-[20%] '>
             <div className='flex flex-col gap-1 justify-center items-center'>
-            <Image src={home} alt='home'/>
+            <Image src={cart} alt='home'/>
                 <h1 className='sm:text-[.8vw] text-[3vw] text-quad font-bold '>Purchases</h1>
             </div>
             <div className='flex flex-col gap-1 justify-center items-center'>
